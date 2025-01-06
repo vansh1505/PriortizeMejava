@@ -1,5 +1,8 @@
 # Time Management and Task Prioritization System
 
+![Image](img1.jpg)
+![Image](img.jpg)
+
 ## Project Description
 The **Time Management and Task Prioritization System** is designed to help users efficiently manage their time by prioritizing tasks based on deadlines and importance. The system also tracks the time spent on each task, enabling users to stay organized and enhance their productivity.
 
