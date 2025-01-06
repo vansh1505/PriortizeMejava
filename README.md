@@ -17,7 +17,7 @@ The database consists of the following key tables:
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/vansh1505/Guvi-sem3-2024-project.git
+   git clone https://github.com/vansh1505/PriortizeMejava.git
    ```
 
 2. **Install MySQL**:
